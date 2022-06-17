@@ -1,3 +1,11 @@
+<script setup>
+
+definePageMeta({
+    layout: "default",
+    name: "Blog"
+})
+
+</script>
 <template>
-<div>hello World</div>
+    <h1>Page2</h1>
 </template>
